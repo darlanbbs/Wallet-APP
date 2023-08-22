@@ -33,3 +33,17 @@ Certifique-se de ter [Node.js](https://nodejs.org/) instalado em sua máquina.
 1. Crie um arquivo `.env` na raiz do projeto para armazenar as variáveis de ambiente.
 2. Configure as variáveis necessárias no arquivo `.env`. Por exemplo:
 
+REACT_APP_API_URL=https://sua-api-backend.com
+
+
+## Execução
+
+1. Após a instalação das dependências, execute o comando `npm start` para iniciar o aplicativo.
+2. O aplicativo será aberto automaticamente no seu navegador padrão.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e correções.
+
+
+
