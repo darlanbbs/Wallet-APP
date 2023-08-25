@@ -1,7 +1,7 @@
 import axios from "axios";
 import Cookies from "js-cookie";
 
-const BASE_URL = "http://localhost:5000";
+const BASE_URL = "http://localhost:5050";
 
 export function findAllTransactions() {
   const response = axios.get(`${BASE_URL}/transactions`, {
